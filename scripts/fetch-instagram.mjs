@@ -25,6 +25,7 @@ async function listMedia() {
     },
   };
   if (process.env.COMPOSIO_ACCOUNT_ID) body.connected_account_id = process.env.COMPOSIO_ACCOUNT_ID;
+  body.user_id = process.env.COMPOSIO_USER_ID || "pg-test-e9f8c9c1-fb73-45fa-9cc7-8b88fcef1333";
   const r = await fetch("https://backend.composio.dev/api/v3.1/tools/execute/INSTAGRAM_GET_IG_USER_MEDIA", {
     method: "POST",
     headers: { "x-api-key": KEY, "content-type": "application/json" },
