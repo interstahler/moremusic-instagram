@@ -1,7 +1,14 @@
 {
-  "updated": "2026-11-10T13:34:02Z",
+  "updated": "2026-11-18T14:12:13Z",
   "profileUrl": "https://www.instagram.com/moremusic.no/",
   "posts": [
+    {
+      "id": "18102956321560357",
+      "image": "https://interstahler.github.io/moremusic-instagram/instagram/18102956321560357.jpg",
+      "link": "https://www.instagram.com/p/Df2sQgACKS1/",
+      "caption": "Gratulerer med dagen til denne helt vanvittig rå fyren! Vår fantastiske bassist og musikkprodusent, @basshenrik! Vi digger deg og er så gla…",
+      "timestamp": "2026-11-17T19:33:38Z"
+    },
     {
       "id": "18641752576039323",
       "image": "https://interstahler.github.io/moremusic-instagram/instagram/18641752576039323.jpg",
@@ -57,13 +64,6 @@
       "link": "https://www.instagram.com/p/DeMpmjxjJu-/",
       "caption": "@kloverrkloverr med @moremusic.no på @molla_scene 🔥🔥🔥 Foto av @mermarketing.no 🔥",
       "timestamp": "2026-10-07T15:10:56Z"
-    },
-    {
-      "id": "17997722279778074",
-      "image": "https://interstahler.github.io/moremusic-instagram/instagram/17997722279778074.jpg",
-      "link": "https://www.instagram.com/p/DZaIZS6jPsm/",
-      "caption": "Denne rå gjengen har i dag vært en svipptur til Bergen. Ombord Midthordland-MDS fikk de varme opp en gjeng som skal videre på @bergenfest !…",
-      "timestamp": "2026-06-10T14:13:10Z"
     }
   ]
 }
