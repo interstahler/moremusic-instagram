@@ -1,7 +1,14 @@
 {
-  "updated": "2026-11-18T14:12:13Z",
+  "updated": "2026-11-25T15:43:55Z",
   "profileUrl": "https://www.instagram.com/moremusic.no/",
   "posts": [
+    {
+      "id": "18069497228512136",
+      "image": "https://interstahler.github.io/moremusic-instagram/instagram/18069497228512136.jpg",
+      "link": "https://www.instagram.com/p/DgKAbGJiPKe/",
+      "caption": "Første helg med juleshow på @qualityhotelriverstation var 🔥🔥🔥 Vi gleder oss til fortsettelsen! Fremdeles ledige billetter 11. og 12. des…",
+      "timestamp": "2026-11-25T07:35:01Z"
+    },
     {
       "id": "18102956321560357",
       "image": "https://interstahler.github.io/moremusic-instagram/instagram/18102956321560357.jpg",
@@ -57,13 +64,6 @@
       "link": "https://www.instagram.com/p/DeYsT2HjHfK/",
       "caption": "«Less is more» på @molla_scene #moremusic #lessismore #unplugged #liveentertainment #møllascene Foto: @mermarketing.no",
       "timestamp": "2026-10-12T07:25:02Z"
-    },
-    {
-      "id": "18133660879678226",
-      "image": "https://interstahler.github.io/moremusic-instagram/instagram/18133660879678226.jpg",
-      "link": "https://www.instagram.com/p/DeMpmjxjJu-/",
-      "caption": "@kloverrkloverr med @moremusic.no på @molla_scene 🔥🔥🔥 Foto av @mermarketing.no 🔥",
-      "timestamp": "2026-10-07T15:10:56Z"
     }
   ]
 }
