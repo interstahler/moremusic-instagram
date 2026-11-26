@@ -1,7 +1,14 @@
 {
-  "updated": "2026-11-25T15:43:55Z",
+  "updated": "2026-11-26T15:25:33Z",
   "profileUrl": "https://www.instagram.com/moremusic.no/",
   "posts": [
+    {
+      "id": "18045961841835463",
+      "image": "https://interstahler.github.io/moremusic-instagram/instagram/18045961841835463.jpg",
+      "link": "https://www.instagram.com/p/DgNS2GICKNo/",
+      "caption": "Keytar or gitar? We’ve got both! #julebord #qualityhotellriverstation #moremusic #morethanmusic #wewantmore 📸 Merethe F. Brattensborg på @…",
+      "timestamp": "2026-11-26T14:14:06Z"
+    },
     {
       "id": "18069497228512136",
       "image": "https://interstahler.github.io/moremusic-instagram/instagram/18069497228512136.jpg",
@@ -57,13 +64,6 @@
       "link": "https://www.instagram.com/p/Deca4ZdjPed/",
       "caption": "@bertinez X @moremusic.no X @molla_scene #queenB #moremusic #morethanmusic #bertinezetlitz #event Foto: @mermarketing.no Video: @niklasmelb…",
       "timestamp": "2026-10-13T18:10:03Z"
-    },
-    {
-      "id": "17959480635251102",
-      "image": "https://interstahler.github.io/moremusic-instagram/instagram/17959480635251102.jpg",
-      "link": "https://www.instagram.com/p/DeYsT2HjHfK/",
-      "caption": "«Less is more» på @molla_scene #moremusic #lessismore #unplugged #liveentertainment #møllascene Foto: @mermarketing.no",
-      "timestamp": "2026-10-12T07:25:02Z"
     }
   ]
 }
